@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "381908233158",
+    "firebase_url": "https://luz-inteligente-2f973-default-rtdb.firebaseio.com",
+    "project_id": "luz-inteligente-2f973",
+    "storage_bucket": "luz-inteligente-2f973.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:381908233158:android:f823191729861f627920c7",
+        "android_client_info": {
+          "package_name": "com.juanangel.luzinteligente"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD3jK9F8afFmTyBJKrGGLnMSGjiO-6X2eo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
