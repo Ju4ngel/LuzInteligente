@@ -1,0 +1,6 @@
+#define WIFI_SSID "iPhone de Juan Ángel"
+#define WIFI_PASSWORD "Juangel03"
+#define API_KEY "AIzaSyD3jK9F8afFmTyBJKrGGLnMSGjiO-6X2eo"
+#define DATABASE_URL "https://luz-inteligente-2f973-default-rtdb.firebaseio.com/"
+#define USER_EMAIL "esp32@luzinteligente.com"
+#define USER_PASSWORD "Juanangel0308"
